@@ -1,0 +1,19 @@
+# environments and caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+*.env
+# databases and pipeline artefacts (never public)
+*.db
+*.npy
+*_audit.json
+subcluster_audit.json
+extracted*.json
+gap_importance_cache.json
+papers_raw.csv
+embeddings*
+# old prototypes and scratch
+remove/
+api/

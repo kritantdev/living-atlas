@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this map or its data, please cite it as below."
+title: "Living Atlas"
+type: dataset
+authors:
+  - family-names: Bhatia
+    given-names: Kritant
+version: 0.1.0
+date-released: 2026-10-10
+license: CC-BY-SA-4.0
+repository-code: "https://github.com/kritantdev/living-atlas"
+url: "https://kritantdev.github.io/living-atlas/"
